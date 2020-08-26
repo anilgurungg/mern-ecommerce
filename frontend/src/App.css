@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 90px auto 60px auto;
+  max-width: 1000px;
+  min-height: 80vh;
+}
